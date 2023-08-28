@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "452958690852",
+    "project_id": "crytotracker-449a1",
+    "storage_bucket": "crytotracker-449a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452958690852:android:2735c117800da5762b02b1",
+        "android_client_info": {
+          "package_name": "com.example.my_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "452958690852-glmiag1uommkh8e408bm2d6pv8dcpn4i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT_--X3UY8pT5WE0hkrgHt8-OSQvhFNVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "452958690852-glmiag1uommkh8e408bm2d6pv8dcpn4i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
